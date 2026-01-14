@@ -1,9 +1,5 @@
 
-![IMG_20250510_161905](https://github.com/user-attachments/assets/4856a61b-544d-473b-a3ff-c5af51471dcd)
-![IMG_20250510_161922](https://github.com/user-attachments/assets/5d76e99a-7c8c-49d9-84fb-85cc85d4fec9)
-![IMG_20250510_161935](https://github.com/user-attachments/assets/6d28f1c1-5972-4a24-81a5-386f557da7f8)
-![IMG_20250510_162002](https://github.com/user-attachments/assets/555f2d01-b029-4c41-b041-285d1d39f45e)
-![IMG_20250510_161947](https://github.com/user-attachments/assets/189da5b5-2c44-417b-b4c6-2fa79d00c828)
+
 
 # RespireX: AI-Powered Lung Disease Detection
 
@@ -54,7 +50,12 @@ RespireX is an AI-driven healthcare solution that detects lung diseases from che
    cd Frontend
    npm start
    ```
-
+## Demo 
+![IMG_20250510_161905](https://github.com/user-attachments/assets/4856a61b-544d-473b-a3ff-c5af51471dcd)
+![IMG_20250510_161922](https://github.com/user-attachments/assets/5d76e99a-7c8c-49d9-84fb-85cc85d4fec9)
+![IMG_20250510_161935](https://github.com/user-attachments/assets/6d28f1c1-5972-4a24-81a5-386f557da7f8)
+![IMG_20250510_162002](https://github.com/user-attachments/assets/555f2d01-b029-4c41-b041-285d1d39f45e)
+![IMG_20250510_161947](https://github.com/user-attachments/assets/189da5b5-2c44-417b-b4c6-2fa79d00c828)
 ## Team
 - **Tushar Neje**
 - **Irfan Naikwade**
